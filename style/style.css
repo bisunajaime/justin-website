@@ -1,0 +1,70 @@
+*{
+    font-family: 'Muli', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.bg{
+    background-color: #212121;
+}
+
+.p-top{
+    padding-top: 100px;
+}
+
+.p-padding{
+    padding-left: 30px;
+}
+
+.leftBorder{
+    border-left: 1px solid white;
+    padding-left: 2px;
+}
+
+.color{
+    color: white;
+}
+
+.color:hover{
+    transition: 0.5s;
+    color: #E64A19;
+}
+
+.nav-link{
+    font-size: 20px;
+}
+
+.car-img{
+    height: 100vh;
+    width: 100vw;
+}
+
+.fixed{
+    position: relative;
+}
+
+button.custom{
+    border: 2px solid #E64A19;
+    border-radius: 0px;
+    background-color: transparent;
+    text-transform: uppercase;
+    color: white;
+}
+button.custom:hover {
+    transition: 0.25s;
+    border: 2px solid #E64A19;
+    border-radius: 0px;
+    background-color: #E64A19;
+    color: white;
+    text-transform: uppercase;
+}
+
+.caption{
+    transform: translate(-50%, -10%);
+}
+
+.lot{
+    height: 100vh;
+    width: 45vw;
+    margin: 0;
+}
