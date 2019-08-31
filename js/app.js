@@ -10,3 +10,5 @@ window.onscroll = () => {
     }
     prevScrollpos = currentScrollPos;
 }
+
+AOS.init();

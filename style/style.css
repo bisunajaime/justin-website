@@ -43,14 +43,14 @@
     position: relative;
 }
 
-button.custom{
+a.custom{
     border: 2px solid #E64A19;
     border-radius: 0px;
     background-color: transparent;
     text-transform: uppercase;
     color: white;
 }
-button.custom:hover {
+a.custom:hover {
     transition: 0.25s;
     border: 2px solid #E64A19;
     border-radius: 0px;
@@ -63,8 +63,41 @@ button.custom:hover {
     transform: translate(-50%, -10%);
 }
 
+.border1{
+    border: 1px solid white;
+}
+
+.title{
+    color: #E64A19;
+}
+
+.head-padding{
+    padding: 70px 0;
+}
+
+.card-body{
+    padding-bottom: 50px;
+}
+
 .lot{
-    height: 100vh;
-    width: 45vw;
+    padding-left: 10px;
+    height: 50vh;
+    width: 100%;
     margin: 0;
+}
+
+.lot-text{
+    font-size: 25px;
+}
+
+.border-orange{
+    border: 1px solid #E64A19;
+}
+
+.icon-orange{
+    color: #E64A19;
+}
+
+.card-body{
+    background-color: black;
 }
