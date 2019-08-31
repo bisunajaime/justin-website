@@ -5,7 +5,7 @@
 }
 
 .bg{
-    background-color: #212121;
+    background-color: black;
 }
 
 .p-top{
@@ -136,8 +136,8 @@ a.custom:hover {
 .fb:hover {
     transition: 0.25s;
     color: #212121;
-    background-color: #3b5998;
-    padding: 40px 55px;
+    color: black;
+    background-color: #E64A19;
 }
 
 .ig{
@@ -148,8 +148,8 @@ a.custom:hover {
 .ig:hover{
     transition: 0.25s;
     color: #212121;
-    background-color: rgb(138, 58, 185);
-    padding: 40px 50px;
+    color: black;
+    background-color: #E64A19;
 }
 
 .tw{
@@ -160,10 +160,18 @@ a.custom:hover {
 .tw:hover{
     transition: 0.25s;
     padding: 40px 50px;
-    color: #212121;
-    background-color: #38A1F3;
+    color: black;
+    background-color: #E64A19;
+}
+
+.socials-title{
+    margin: 50px 0;
 }
 
 .ab-list{
     color: #E64A19;
+}
+
+hr{
+    background-color: #E64A19;
 }
