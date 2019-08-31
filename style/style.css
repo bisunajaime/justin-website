@@ -101,3 +101,69 @@ a.custom:hover {
 .card-body{
     background-color: black;
 }
+
+.about-me{
+    height: 55vh;
+    width: 30vw;
+    margin-left: 5px;
+}
+
+.about-me-div{
+}
+
+.about-me-padding{
+    padding: 50px 0;
+}
+
+.about-me-text{
+    font-size: 20px;
+}
+
+.icons{
+    font-size: 70px;
+    padding: 0 50px;
+}
+
+.fa{
+    margin: 20px 50px;
+}
+
+.fb{
+    color: #3b5998;
+    padding: 40px 55px;
+}
+
+.fb:hover {
+    transition: 0.25s;
+    color: #212121;
+    background-color: #3b5998;
+    padding: 40px 55px;
+}
+
+.ig{
+    color: rgb(138, 58, 185);
+    padding: 40px 50px;
+}
+
+.ig:hover{
+    transition: 0.25s;
+    color: #212121;
+    background-color: rgb(138, 58, 185);
+    padding: 40px 50px;
+}
+
+.tw{
+    padding: 40px 50px;
+    color: #38A1F3;
+}
+
+.tw:hover{
+    transition: 0.25s;
+    padding: 40px 50px;
+    color: #212121;
+    background-color: #38A1F3;
+}
+
+.ab-list{
+    color: #E64A19;
+}
