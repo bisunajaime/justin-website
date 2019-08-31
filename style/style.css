@@ -116,7 +116,7 @@ a.custom:hover {
 }
 
 .about-me-text{
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .icons{
@@ -179,4 +179,8 @@ hr{
 .data-gather{
     height: 40vh;
     
+}
+
+.data-gather2{
+    height: 40vh;
 }
